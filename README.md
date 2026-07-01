@@ -45,7 +45,7 @@ Most of my projects are about **backend development, database systems, and AI-as
 |---|---|---|
 | [**AI-chat-box**](https://github.com/Minhdicodedao/AI-chat-box) | A rule-based chatbot that teaches country facts (capital, national animal, national flower) through a REST API and a web UI. | Java · Spring Boot |
 | [**Hotel Booking Web**](https://github.com/Minhdicodedao/Project-PRJ-hotel-booking-web) | A hotel booking web application built as a course project. | Java |
-| **GymMaster** *(team – SWP391)* | Gym management system built with a team; contributed to backend & frontend. | Backend · Frontend |
+| **GymMaster** *(team – SWP391)* | Gym management system built with a team; contributed to backend & frontend. | Backend · Frontend |https://gymmaster-os-741815287158.asia-southeast1.run.app/welcome
 
 ## 📊 GitHub Stats
 
